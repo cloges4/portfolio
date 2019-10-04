@@ -1,6 +1,7 @@
-# FCC-Portfolio-Project
+# Portfolio
 
-This project is part of the FreeCodeCamp Responsive Web Design Certification. Project requirements can be found [here](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page).
+This project is my personal portfolio site
+
 
 - [Project](https://codepen.io/cloges4/full/LKQQqY)
 
