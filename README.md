@@ -3,7 +3,7 @@
 This project is my personal portfolio site
 
 
-- [Project](https://codepen.io/cloges4/full/LKQQqY)
+- [Project](https://charlesloges.com)
 
 ## Getting Started
 
